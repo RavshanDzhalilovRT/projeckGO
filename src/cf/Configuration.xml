@@ -226,6 +226,7 @@
 			<Language>Русский</Language>
 			<Subsystem>ПодключаемыеОтчетыИОбработки</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
+			<Subsystem>ГлавнаяПодсистема</Subsystem>
 			<StyleItem>ВажнаяНадписьШрифт</StyleItem>
 			<StyleItem>ВыполненнаяЗадача</StyleItem>
 			<StyleItem>ГиперссылкаЦвет</StyleItem>

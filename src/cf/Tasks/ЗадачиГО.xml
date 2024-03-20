@@ -56,7 +56,7 @@
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
 			<CreateOnInput>DontUse</CreateOnInput>
 			<DefaultObjectForm/>
-			<DefaultListForm/>
+			<DefaultListForm>Task.ЗадачиГО.Form.ФормаСписка</DefaultListForm>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryListForm/>
@@ -412,6 +412,7 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
+			<Form>ФормаСписка</Form>
 			<AddressingAttribute uuid="95e1307d-bbc0-44c9-b3a4-3e3c696128aa">
 				<Properties>
 					<Name>Пользователь</Name>
