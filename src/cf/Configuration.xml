@@ -664,6 +664,8 @@
 			<CommonModule>ФизическиеЛицаКлиентСервер</CommonModule>
 			<CommonModule>ФизическиеЛицаКлиентСерверЛокализация</CommonModule>
 			<CommonModule>ОбновлениеИнформационнойБазыБСП_2</CommonModule>
+			<CommonModule>Кафка</CommonModule>
+			<CommonModule>КоннекторHTTP</CommonModule>
 			<ExchangePlan>ОбновлениеИнформационнойБазы</ExchangePlan>
 			<XDTOPackage>ApdexExport</XDTOPackage>
 			<XDTOPackage>ApdexExport_1_0_0_3</XDTOPackage>
@@ -846,6 +848,7 @@
 			<Catalog>Пользователи</Catalog>
 			<Catalog>ПрофилиКлючевыхОпераций</Catalog>
 			<Catalog>РолиИсполнителей</Catalog>
+			<Catalog>Номенклатура</Catalog>
 			<Enum>ВариантыВажностиЗадачи</Enum>
 			<Enum>ВариантыИспользованияВнешнихКомпонент</Enum>
 			<Enum>ВариантыПубликацииДополнительныхОтчетовИОбработок</Enum>
