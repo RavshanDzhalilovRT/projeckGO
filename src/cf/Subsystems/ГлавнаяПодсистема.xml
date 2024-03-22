@@ -18,6 +18,13 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Task.ЗадачиГО</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">BusinessProcess.ОзнакомлениеСОбращениемГО</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ОбращениеПоГарантийнымОбязательствам</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.РегламентныеИФоновыеЗадания</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ОценкаПроизводительности</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ОценкаПроизводительности</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.КлючевыеОперации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЖурналСообщенийКафка</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЗамерыВремени</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

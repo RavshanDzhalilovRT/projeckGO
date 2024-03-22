@@ -706,6 +706,7 @@
 			<ScheduledJob>УдалениеУстаревшихПараметровРаботыВерсийРасширений</ScheduledJob>
 			<ScheduledJob>УстановкаПорядкаОтложенногоОбновленияВМоделиСервиса</ScheduledJob>
 			<ScheduledJob>ЭкспортОценкиПроизводительности</ScheduledJob>
+			<ScheduledJob>ПолучениеДанныхКафка</ScheduledJob>
 			<FunctionalOption>ВариантыВерсионированияОбъектов</FunctionalOption>
 			<FunctionalOption>ИзменятьЗаданияЗаднимЧислом</FunctionalOption>
 			<FunctionalOption>ИспользоватьВнешнихПользователей</FunctionalOption>
@@ -889,6 +890,7 @@
 			<DataProcessor>РегламентныеИФоновыеЗадания</DataProcessor>
 			<DataProcessor>РезультатыОбновленияПрограммы</DataProcessor>
 			<DataProcessor>РекомендацияПоПовышениюСкоростиРаботы</DataProcessor>
+			<DataProcessor>ОбращениеПоГарантийнымОбязательствам</DataProcessor>
 			<InformationRegister>БезопасноеХранилищеДанных</InformationRegister>
 			<InformationRegister>БезопасноеХранилищеДанныхОбластейДанных</InformationRegister>
 			<InformationRegister>ВерсииОбъектов</InformationRegister>
@@ -918,6 +920,7 @@
 			<InformationRegister>ФиксацияОбработкиДанныхОбработчиками</InformationRegister>
 			<InformationRegister>УдалитьЗамерыВремени3</InformationRegister>
 			<InformationRegister>АдресаИсполнителейЗадачГО</InformationRegister>
+			<InformationRegister>ЖурналСообщенийКафка</InformationRegister>
 			<ChartOfCharacteristicTypes>ОбъектыАдресацииЗадач</ChartOfCharacteristicTypes>
 			<BusinessProcess>Задание</BusinessProcess>
 			<BusinessProcess>ОзнакомлениеСОбращениемГО</BusinessProcess>
